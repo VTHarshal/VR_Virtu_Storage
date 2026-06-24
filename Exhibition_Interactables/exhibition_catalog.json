@@ -1,0 +1,35 @@
+{
+    "CatalogName": "exhibition",
+    "Items": [
+        {
+            "ObjectId": "i_obj_00",
+            "ObjectName": "Football",
+            "BundleName": "exhibition_0_football",
+            "Version": 1
+        },
+        {
+            "ObjectId": "i_obj_01",
+            "ObjectName": "Box",
+            "BundleName": "exhibition_1_box",
+            "Version": 1
+        },
+        {
+            "ObjectId": "i_obj_02",
+            "ObjectName": "Fishing Rod",
+            "BundleName": "exhibition_2_fishingrod",
+            "Version": 1
+        },
+        {
+            "ObjectId": "i_obj_03",
+            "ObjectName": "Cake",
+            "BundleName": "exhibition_3_cake",
+            "Version": 1
+        },
+        {
+            "ObjectId": "i_obj_04",
+            "ObjectName": "Book",
+            "BundleName": "exhibition_4_book",
+            "Version": 1
+        }
+    ]
+}
